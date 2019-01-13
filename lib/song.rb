@@ -12,6 +12,7 @@ class Song
 
     def self.create(song)
       @song = song
-      
+    end
+
 
   end
